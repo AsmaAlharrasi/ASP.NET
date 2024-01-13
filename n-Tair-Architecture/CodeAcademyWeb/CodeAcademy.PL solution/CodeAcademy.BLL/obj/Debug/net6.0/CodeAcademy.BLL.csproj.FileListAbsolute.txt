@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\bin\Debug\net6.0\CodeAcademy.BLL.deps.json
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\bin\Debug\net6.0\CodeAcademy.BLL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\bin\Debug\net6.0\CodeAcademy.BLL.pdb
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\bin\Debug\net6.0\CodeAcademy.DAL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\bin\Debug\net6.0\CodeAcademy.DAL.pdb
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.csproj.CopyComplete
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\refint\CodeAcademy.BLL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\CodeAcademy.BLL.pdb
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.BLL\obj\Debug\net6.0\ref\CodeAcademy.BLL.dll
