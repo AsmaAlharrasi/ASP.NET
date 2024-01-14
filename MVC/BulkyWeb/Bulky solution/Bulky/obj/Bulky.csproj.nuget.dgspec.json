@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\Bulky\\Bulky solution\\Bulky\\Bulky.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\BulkyWeb\\Bulky solution\\Bulky\\Bulky.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\Bulky\\Bulky solution\\Bulky\\Bulky.csproj": {
+    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\BulkyWeb\\Bulky solution\\Bulky\\Bulky.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\Bulky\\Bulky solution\\Bulky\\Bulky.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\BulkyWeb\\Bulky solution\\Bulky\\Bulky.csproj",
         "projectName": "Bulky",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\Bulky\\Bulky solution\\Bulky\\Bulky.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\BulkyWeb\\Bulky solution\\Bulky\\Bulky.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\Bulky\\Bulky solution\\Bulky\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\BulkyWeb\\Bulky solution\\Bulky\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

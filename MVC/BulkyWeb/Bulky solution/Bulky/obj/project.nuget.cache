@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aUHEgW70Y7qFE+hQxxt71XDWfepSBw6aHXhfmPk9morVw6xjwHvcJUrwXFtOEWe69cdN4BC2gBmT4KheFVpQog==",
+  "dgSpecHash": "Yg67E58rTS4GHruzbJpntCCEv+ftHS8xbGUhi1QSp0U7mgIURlrBEMdhYgKNEsSS9267Plwej+1JBTVTrJBeAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\Bulky\\Bulky solution\\Bulky\\Bulky.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\BulkyWeb\\Bulky solution\\Bulky\\Bulky.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
