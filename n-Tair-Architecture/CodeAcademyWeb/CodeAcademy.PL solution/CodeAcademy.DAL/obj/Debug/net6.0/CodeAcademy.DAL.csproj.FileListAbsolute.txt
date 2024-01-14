@@ -11,3 +11,16 @@ C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\Code
 C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\refint\CodeAcademy.DAL.dll
 C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.pdb
 C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\MVC\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\ref\CodeAcademy.DAL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\bin\Debug\net6.0\CodeAcademy.DAL.deps.json
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\bin\Debug\net6.0\CodeAcademy.DAL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\bin\Debug\net6.0\CodeAcademy.DAL.pdb
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.sourcelink.json
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\refint\CodeAcademy.DAL.dll
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\CodeAcademy.DAL.pdb
+C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.DAL\obj\Debug\net6.0\ref\CodeAcademy.DAL.dll

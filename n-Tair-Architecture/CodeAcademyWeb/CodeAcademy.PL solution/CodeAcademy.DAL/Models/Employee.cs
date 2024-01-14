@@ -16,6 +16,8 @@ namespace CodeAcademy.DAL.Models
         [MinLength(5)]
         public string Name { get; set; }
 
+        [Range(18, 33)]
+        public int age { get; set; }
         [MaxLength(50)]
         [MinLength(4)]
         public string City { get; set; }
@@ -23,8 +25,6 @@ namespace CodeAcademy.DAL.Models
         [EmailAddress]
         public string Email { get; set; }
 
-        [Range(18, 33)]
-        public int age { get; set; }
 
         [DataType(DataType.Currency)]
         public double Salary { get; set; }

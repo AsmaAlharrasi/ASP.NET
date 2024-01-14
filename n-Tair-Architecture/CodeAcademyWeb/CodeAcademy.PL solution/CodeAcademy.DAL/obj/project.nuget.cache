@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ppZ4ycjFXCIt1Vpm5B4pvDu/wvSqEeLXrsp3ef6sgJFkqN0N3qQd+CkNwnvDTPhKmjPV4b5baUrl3AyjM1sEMQ==",
+  "dgSpecHash": "mwRYHxEOixSJsMjioO8MBwtu4/2GYdRzAIIYYu7OlTfTqHHhLEtUpfXiDTSYy4Kp3dWfvEWfHrrLY8x7INViMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

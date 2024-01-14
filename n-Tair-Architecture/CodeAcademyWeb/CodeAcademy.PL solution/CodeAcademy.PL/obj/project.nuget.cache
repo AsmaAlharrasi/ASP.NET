@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "echhSfMKB7xXPyXcC+PVP52oqZ+81easa1tQAcxj4btcuKD93ZZMl8AnqLU/G7NygykxUNCkEnZd9nRTFnJRng==",
+  "dgSpecHash": "BhbjMjnLwgrTO1yz6IuMyyz7DAXeXFQjb8BvDQ05eCHhCMPvTs4q5itDu0KbaRgwMCp238hUzdXohRquDdjBGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.PL\\CodeAcademy.PL.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.PL\\CodeAcademy.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

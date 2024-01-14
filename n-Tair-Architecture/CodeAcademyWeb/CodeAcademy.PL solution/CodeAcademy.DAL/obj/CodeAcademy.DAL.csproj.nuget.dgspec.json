@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj": {
+    "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj",
         "projectName": "CodeAcademy.DAL",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.DAL\\CodeAcademy.DAL.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\MVC\\CodeAcademy.PL solution\\CodeAcademy.DAL\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Code Academy\\ASP.Net\\coding\\n-Tair-Architecture\\CodeAcademyWeb\\CodeAcademy.PL solution\\CodeAcademy.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
