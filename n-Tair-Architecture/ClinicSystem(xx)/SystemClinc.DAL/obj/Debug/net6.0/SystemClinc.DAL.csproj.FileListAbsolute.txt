@@ -1,0 +1,12 @@
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\bin\Debug\net6.0\SystemClinc.DAL.deps.json
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\bin\Debug\net6.0\SystemClinc.DAL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\bin\Debug\net6.0\SystemClinc.DAL.pdb
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.csproj.AssemblyReference.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.AssemblyInfoInputs.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.AssemblyInfo.cs
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\refint\SystemClinc.DAL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\SystemClinc.DAL.pdb
+C:\Users\my pc\Desktop\New folder\SystemClinc.DAL\obj\Debug\net6.0\ref\SystemClinc.DAL.dll

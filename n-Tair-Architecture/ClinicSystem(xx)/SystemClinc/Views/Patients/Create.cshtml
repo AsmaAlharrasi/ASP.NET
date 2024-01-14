@@ -1,0 +1,55 @@
+﻿@model Patient
+
+
+
+<h2> Book Appointment </h2>
+
+<form asp-action="Create">
+    <div asp-validation-summary="All"></div>
+
+    <label asp-for="FName" class="form-Label"></label>
+    <input asp-for="FName" class="form-control" />
+    <span asp-validation-for="FName" class="text-danger"></span>
+
+    <label asp-for="LName" class="form-Label"></label>
+    <input asp-for="LName" class="form-control" />
+    <span asp-validation-for="LName" class="text-danger"></span>
+
+    <label asp-for="Age" class="form-Label"></label>
+    <input asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+
+    <label asp-for="Email" class="form-Label"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <label asp-for="Phone" class="form-Label"></label>
+    <input asp-for="Phone" class="form-control" />
+    <span asp-validation-for="Phone" class="text-danger"></span>
+
+    <label asp-for="Specialization" class="form-Label"> Choose a Specialization </label>
+    <select >
+        <option>--Select Specialization--</option>
+        @foreach (var item in Model)
+        {
+            <option value="SpecializationName">@item.SpecializationName</option>
+            <option value="Description">@item.Description</option>
+
+        }
+    </select>
+    <span asp-validation-for="Specialization" class="text-danger"></span>
+
+    <label asp-for="Appointment_Time" class="form-Label"></label>
+    <input asp-for="Appointment_Time" class="form-control" />
+    <span asp-validation-for="Appointment_Time" class="text-danger"></span>
+
+    <label asp-for="Appointment_Day" class="form-Label"></label>
+    <input asp-for="Appointment_Day" class="form-control" />
+    <span asp-validation-for="Appointment_Day" class="text-danger"></span>
+   
+    <div>
+        <input type="submit" class="btn btn-primary" />
+        | <a asp-action="Index" class="btn btn-dark">Back</a>
+    </div>
+
+</form>
