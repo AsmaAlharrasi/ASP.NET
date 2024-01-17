@@ -16,6 +16,10 @@ namespace CodeAcademy.BLL.Repository
         {
             _context = context;   
         }
-
+        public IEnumerable<Employee> Search(string name)
+        {
+            var emp = _context.Employees.Where(w => w.Name.ToLower().Contains(name.ToLower())).ToList();
+            return emp;
+        }
     }
 }

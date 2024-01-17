@@ -1,7 +1,27 @@
-﻿@model List<Employee>
+﻿
+@model List<Employee>
+
 
 <h2> Employee List </h2>
-<a asp-action="Create" class="btn btn-primary">Create New Employee</a>
+<div class="container">
+
+
+
+<a asp-action="Create" class="btn btn-primary"> Create New Employee</a>
+<div class="row   mt-4 w-75">
+
+
+    <form class="d-flex justify-content-center align-items-center" asp-action="Index">
+        <input type="text" name="search" class="form-control  " placeholder="enter Search Value" />
+        <input type="submit" value="Search" class="btn btn-success " />
+    </form>
+
+
+</div>
+
+
+</div>
+
 @if (Model.Count() > 0)
 {
 
@@ -9,10 +29,11 @@
         <thead>
             <tr>
                 <td>Name </td>
-                <td>Age </td>
-                <td>Email </td>
+                <td>Department </td>
                 <td>City </td>
-                <td>Salary</td>
+                <td> Email </td>
+                <td> Age </td>
+                <td> Salary </td>
             </tr>
         </thead>
         <tbody>
@@ -21,14 +42,13 @@
                 <tr>
 
                     <td> @item.Name </td>
-                    <td> @item.age </td>
-                    <td> @item.Email </td>
+                    <td> @item.Departments?.Name </td>
                     <td> @item.City </td>
+                    <td> @item.Email </td>
+                    <td> @item.age </td>
                     <td> @item.Salary </td>
 
-                    <td> <a asp-controller="Employee" asp-action="Details" asp-route-id="@item.Id" class="btn btn-dark"> Details  </a></td>
-                    <td> <a asp-controller="Employee" asp-action="Update" asp-route-id="@item.Id" class="btn btn-info"> Update  </a> </td>
-                    <td> <a asp-controller="Employee" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger"> Delete  </a> </td>
+                    <partial name="_ButtonsPartial" model="@item.Id" />
                 </tr>
             }
 
@@ -41,3 +61,4 @@ else
         <h2>  No Employee Available </h2>
     </div>
 }
+</div>

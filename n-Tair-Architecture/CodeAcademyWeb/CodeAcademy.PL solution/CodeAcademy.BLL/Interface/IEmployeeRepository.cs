@@ -9,6 +9,6 @@ namespace CodeAcademy.BLL.Interface
 {
     public interface IEmployeeRepository : IGenaricRepository<Employee>
     {
-
+        IEnumerable<Employee> Search(string name);
     }
 }

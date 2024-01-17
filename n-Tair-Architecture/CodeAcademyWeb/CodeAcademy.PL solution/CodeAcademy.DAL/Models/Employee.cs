@@ -28,5 +28,8 @@ namespace CodeAcademy.DAL.Models
 
         [DataType(DataType.Currency)]
         public double Salary { get; set; }
+
+        public int? DepartmentId { get; set; }
+        public Department Departments { get; set; }
     }
 }

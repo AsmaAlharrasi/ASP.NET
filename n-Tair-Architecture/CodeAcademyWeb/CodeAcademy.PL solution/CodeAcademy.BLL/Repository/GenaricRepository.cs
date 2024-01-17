@@ -1,6 +1,7 @@
 ﻿using CodeAcademy.BLL.Interface;
 using CodeAcademy.DAL.Data;
 using CodeAcademy.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +36,20 @@ namespace CodeAcademy.BLL.Repository
 
 
         public IEnumerable<T> GetAll()
-             => _context.Set<T>().ToList();
+        {
+            if (typeof(T) == typeof(Employee))
+            {
+                return (IEnumerable<T>)_context.Employees.Include(e => e.Departments).ToList();
+
+            }
+            else
+            {
+                return _context.Set<T>().ToList();
+
+            }
+
+
+        }
 
 
         public int Update(T item)

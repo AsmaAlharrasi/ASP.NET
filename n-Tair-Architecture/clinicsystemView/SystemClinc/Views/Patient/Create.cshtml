@@ -1,0 +1,37 @@
+﻿﻿
+@model Patient
+
+
+<h2> New Register </h2>
+
+<form asp-action="Create" asp-controller="Patient">
+    <div asp-validation-summary="All"></div>
+
+    <label asp-for="FName" class="form-Label"></label>
+    <input asp-for="FName" class="form-control" />
+    <span asp-validation-for="FName" class="text-danger"></span>
+
+    <label asp-for="LName" class="form-Label"></label>
+    <input asp-for="LName" class="form-control" />
+    <span asp-validation-for="LName" class="text-danger"></span>
+
+    <label asp-for="Age" class="form-Label"></label>
+    <input asp-for="Age" class="form-control" />
+    <span asp-validation-for="Age" class="text-danger"></span>
+
+    <label asp-for="Email" class="form-Label"></label>
+    <input asp-for="Email" class="form-control" />
+    <span asp-validation-for="Email" class="text-danger"></span>
+
+    <label asp-for="Phone" class="form-Label"></label>
+    <input asp-for="Phone" class="form-control" />
+    <span asp-validation-for="Phone" class="text-danger"></span>
+
+   
+    <div>
+        <input type="submit" class="btn btn-primary" />
+        
+    </div>
+
+</form>
+  | <a asp-action="Index" class="btn btn-dark">Back</a>

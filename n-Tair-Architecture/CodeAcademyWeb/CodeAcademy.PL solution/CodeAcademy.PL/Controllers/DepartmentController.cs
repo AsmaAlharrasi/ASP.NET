@@ -1,4 +1,5 @@
 ﻿using CodeAcademy.BLL.Interface;
+using CodeAcademy.BLL.Repository;
 using CodeAcademy.DAL.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,6 +9,7 @@ namespace CodeAcademy.PL.Controllers
     {
         private readonly IDepartmentRepository _departmentRepo;
 
+        //IDepartmentReposatory depo = new DepartmentRepository();
         public DepartmentController(IDepartmentRepository departmentrepo)
         {
 
@@ -15,6 +17,10 @@ namespace CodeAcademy.PL.Controllers
         }
         public IActionResult Index()
         {
+
+            // ViewBag || ViewdData
+            //ViewBag.massage = "Hello from Action";
+            //ViewData["msg"] = "Hello from ViewData";
             var deps = _departmentRepo.GetAll();
             return View(deps);
         }
@@ -35,14 +41,16 @@ namespace CodeAcademy.PL.Controllers
         [HttpPost]
         public IActionResult Create(Department dep)
         {
+
             if (ModelState.IsValid)
             {
                 _departmentRepo.Create(dep);
-
+                TempData["success"] = "Added Successfully";
                 return RedirectToAction("Index");
             }
             return View();
         }
+
 
         public IActionResult Update(int id)
         {

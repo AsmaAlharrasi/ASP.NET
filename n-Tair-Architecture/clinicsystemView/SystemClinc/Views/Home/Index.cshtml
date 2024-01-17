@@ -1,0 +1,33 @@
+﻿@model Patient
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div class="wrapper">
+        @* <div class="logo">
+        <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="">
+        </div> *@
+        <div class="text-center mt-4 name">
+            Login
+        </div>
+        <form class="p-3 mt-3" asp-action="Login" method="post">
+            <div class="form-field d-flex align-items-center">
+                <span class="far fa-user"></span>
+                <input type="text" name="userId" asp-for="PatientID" placeholder="Username">
+            </div>
+            <div class="form-field d-flex align-items-center">
+                <span class="fas fa-key"></span>
+                <input type="password" name="UserName" id="pwd" asp-for="FName" placeholder="Password">
+            </div>
+            <input type="submit" class="btn btn-primary" />
+            <br />
+            <a class="btn btn-primary" asp-action="Create" asp-controller="Patient">Rigester</a>
+
+        </form>
+</div>
+
+    <div class="text-center fs-6">
+        <input type="button" name="Rigister" id="pwd" asp-action="Create" asp-controller="Patient" >
+    </div>
+</div>

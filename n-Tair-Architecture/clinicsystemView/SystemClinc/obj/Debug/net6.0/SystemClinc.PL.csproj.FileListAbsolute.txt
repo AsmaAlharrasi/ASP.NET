@@ -1,0 +1,207 @@
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\appsettings.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.staticwebassets.runtime.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.exe
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.deps.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.runtimeconfig.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.pdb
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Humanizer.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.BLL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.DAL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.BLL.pdb
+C:\Users\my pc\Desktop\New folder\SystemClinc\bin\Debug\net6.0\SystemClinc.DAL.pdb
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.AssemblyReference.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.AssemblyInfoInputs.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.AssemblyInfo.cs
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.RazorAssemblyInfo.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.RazorAssemblyInfo.cs
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.SystemClinc.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.build.SystemClinc.PL.props
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SystemClinc.PL.props
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SystemClinc.PL.props
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\scopedcss\bundle\SystemClinc.PL.styles.css
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\scopedcss\projectbundle\SystemClinc.PL.bundle.scp.css
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.CopyComplete
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\refint\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.pdb
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.genruntimeconfig.cache
+C:\Users\my pc\Desktop\New folder\SystemClinc\obj\Debug\net6.0\ref\SystemClinc.PL.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.AssemblyInfo.cs
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.RazorAssemblyInfo.cache
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.RazorAssemblyInfo.cs
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\refint\SystemClinc.PL.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.pdb
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\appsettings.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.staticwebassets.runtime.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.exe
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.deps.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.runtimeconfig.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.pdb
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Humanizer.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.BLL.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.DAL.dll
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.BLL.pdb
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\bin\Debug\net6.0\SystemClinc.DAL.pdb
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.SystemClinc.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.build.SystemClinc.PL.props
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SystemClinc.PL.props
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SystemClinc.PL.props
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\scopedcss\bundle\SystemClinc.PL.styles.css
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\scopedcss\projectbundle\SystemClinc.PL.bundle.scp.css
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.CopyComplete
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.genruntimeconfig.cache
+C:\Users\dell\Desktop\CodeAcademy\CodeAcademy\SystemClinc\SystemClinc\obj\Debug\net6.0\ref\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\appsettings.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.staticwebassets.runtime.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.exe
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.deps.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.runtimeconfig.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.PL.pdb
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Humanizer.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.BLL.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.DAL.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.BLL.pdb
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\bin\Debug\net6.0\SystemClinc.DAL.pdb
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.AssemblyReference.cache
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.AssemblyInfoInputs.cache
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.AssemblyInfo.cs
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.CoreCompileInputs.cache
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.RazorAssemblyInfo.cache
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.RazorAssemblyInfo.cs
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.SystemClinc.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.build.SystemClinc.PL.props
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SystemClinc.PL.props
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SystemClinc.PL.props
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\scopedcss\bundle\SystemClinc.PL.styles.css
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\scopedcss\projectbundle\SystemClinc.PL.bundle.scp.css
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.csproj.CopyComplete
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\refint\SystemClinc.PL.dll
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.pdb
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\SystemClinc.PL.genruntimeconfig.cache
+C:\Users\my pc\Desktop\New folder (3)\SystemClinc\obj\Debug\net6.0\ref\SystemClinc.PL.dll

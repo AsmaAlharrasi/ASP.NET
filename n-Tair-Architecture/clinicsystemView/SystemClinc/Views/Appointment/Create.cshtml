@@ -1,0 +1,31 @@
+﻿@model Appointment
+
+@{
+   
+   // var Special = new SelectList(ViewBag.Special, "SpecializationID", "SpecializationName");
+}
+
+<form asp-action="Create">
+
+    <label asp-for="SpecializationID" class="form-label"></label>
+    <select class="form-control" asp-for="SpecializationID" asp-items="@ViewBag.Special">
+        <option value="">--Select Department--</option>
+    </select>
+<span asp-validation-for="Specialization" class="text-danger"></span>
+
+<label asp-for="Appointment_Time" class="form-Label"></label>
+<input asp-for="Appointment_Time" class="form-control" />
+<span asp-validation-for="Appointment_Time" class="text-danger"></span>
+
+<label asp-for="Appointment_Day" class="form-Label"></label>
+<input asp-for="Appointment_Day" class="form-control" />
+<span asp-validation-for="Appointment_Day" class="text-danger"></span>
+
+
+<div>
+    <input type="submit" class="btn btn-primary" />
+   
+</div>
+</form>
+
+<a asp-action="Index" asp-controller="Home" class="btn btn-dark">Back</a>

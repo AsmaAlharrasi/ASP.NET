@@ -1,0 +1,25 @@
+﻿@model Appointment
+
+<h2> Update Apointment </h2>
+
+<form asp-action="Update">
+   
+
+    <label asp-for="Appointment_Time" class="form-Label"></label>
+    <input asp-for="Appointment_Time" class="form-control" />
+    <span asp-validation-for="Appointment_Time" class="text-danger"></span>
+
+    <label asp-for="Appointment_Day" class="form-Label"></label>
+    <input asp-for="Appointment_Day" class="form-control" />
+    <span asp-validation-for="Appointment_Day" class="text-danger"></span>
+
+    <label asp-for="Appointment_Status" class="form-Label"></label>
+    <input asp-for="Appointment_Status" class="form-control" />
+    <span asp-validation-for="Appointment_Status" class="text-danger"></span>
+
+
+    <a asp-action="Index" class="btn btn-dark"> submit</a>
+    | <a asp-action="Index" class="btn btn-dark"> Back to List</a>
+
+</form>
+

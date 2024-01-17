@@ -18,5 +18,6 @@ namespace CodeAcademy.DAL.Models
         public string Name { get; set; }
 
         public DateTime CreatedAt { get; set; } = DateTime.Now;
+        ICollection<Employee> Employees { get; set; } = new HashSet<Employee>();
     }
 }
