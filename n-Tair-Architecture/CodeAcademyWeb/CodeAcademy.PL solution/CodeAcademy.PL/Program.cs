@@ -1,6 +1,9 @@
 using CodeAcademy.BLL.Interface;
 using CodeAcademy.BLL.Repository;
 using CodeAcademy.DAL.Data;
+using CodeAcademy.DAL.Models;
+using CodeAcademy.PL.ProfileMapper;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace CodeAcademy.PL
@@ -10,16 +13,25 @@ namespace CodeAcademy.PL
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<ApplicationDbContext>(
                 options => options.UseSqlServer(builder.Configuration.GetConnectionString("connection")));
 
-            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            builder.Services.AddAutoMapper(m => m.AddProfile(new EmployeeProfile()));
+            builder.Services.AddAutoMapper(m => m.AddProfile(new DepartmentProfile()));
 
-            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+            builder.Services.AddIdentity<ApplicationUser , IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>();
+            builder.Services.AddAuthentication();
+            
+
+            //builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
+            //builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 
             var app = builder.Build();
 

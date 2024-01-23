@@ -1,21 +1,33 @@
-﻿using CodeAcademy.BLL.Interface;
+﻿using AutoMapper;
+using CodeAcademy.BLL.Interface;
 using CodeAcademy.BLL.Repository;
 using CodeAcademy.DAL.Models;
+using CodeAcademy.PL.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CodeAcademy.PL.Controllers
 {
+    [Authorize]
     public class EmployeeController : Controller
     {
 
-        private readonly IEmployeeRepository _EmployeeRepo;
-        private readonly IDepartmentRepository _departmentrepo;
+        //private readonly IEmployeeRepository _EmployeeRepo;
+        //private readonly IDepartmentRepository _departmentrepo;
 
-        public EmployeeController(IEmployeeRepository Employeerepo, IDepartmentRepository departmentrepo)
+        //public EmployeeController(IEmployeeRepository Employeerepo, IDepartmentRepository departmentrepo)
+        //{
+
+        //    _EmployeeRepo = Employeerepo;
+        //    _departmentrepo = departmentrepo;
+        //}
+
+        private readonly IUnitOfWork _unitOfWork;
+        private readonly IMapper _mapper;
+        public EmployeeController(IUnitOfWork unitOfWork , IMapper mapper)
         {
-
-            _EmployeeRepo = Employeerepo;
-            _departmentrepo = departmentrepo;
+            _unitOfWork = unitOfWork;
+            _mapper = mapper;
         }
 
 
@@ -24,11 +36,11 @@ namespace CodeAcademy.PL.Controllers
             IEnumerable<Employee> emps;
             if (string.IsNullOrEmpty(search))
             {
-                emps = _EmployeeRepo.GetAll();
+                emps = _unitOfWork.EmployeeRepository.GetAll();
             }
             else
             {
-                emps = _EmployeeRepo.Search(search);
+                emps = _unitOfWork.EmployeeRepository.Search(search);
             }
             return View(emps);
         }
@@ -38,23 +50,20 @@ namespace CodeAcademy.PL.Controllers
             {
                 return BadRequest();
             }
-            var emp = _EmployeeRepo.Get(id.Value);
+            var emp = _unitOfWork.EmployeeRepository.Get(id.Value);
             return View(emp);
 
         }
         public IActionResult Create()
         {
-            ViewBag.Departments = _departmentrepo.GetAll();
+            ViewBag.Departments = _unitOfWork.EmployeeRepository.GetAll();
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Employee emp)
+        public IActionResult Create(EmployeeVM emp)
         {
-            //if(dep == null)
-            //{
-            //    return BadRequest();
-            //}
-            _EmployeeRepo.Create(emp);
+            var MappedEmp = _mapper.Map<EmployeeVM, Employee>(emp);
+            _unitOfWork.EmployeeRepository.Create(MappedEmp);
 
             return RedirectToAction("Index");
         }
@@ -62,17 +71,18 @@ namespace CodeAcademy.PL.Controllers
 
         public IActionResult Update(int id)
         {
-            var emp = _EmployeeRepo.Get(id);
-            ViewBag.Departments = _departmentrepo.GetAll();
+            var emp = _unitOfWork.EmployeeRepository.Get(id);
+            ViewBag.Departments = _unitOfWork.EmployeeRepository.GetAll();
             return View(emp);
         }
 
         [HttpPost]
-        public IActionResult Update(Employee emp)
+        public IActionResult Update(EmployeeVM emp)
         {
             if (ModelState.IsValid)
             {
-                _EmployeeRepo.Update(emp);
+                var MappedEmp = _mapper.Map<EmployeeVM, Employee>(emp);
+                _unitOfWork.EmployeeRepository.Update(MappedEmp);
                 return RedirectToAction("Index");
             }
             return View(emp);
@@ -80,14 +90,14 @@ namespace CodeAcademy.PL.Controllers
 
         public IActionResult Delete(int id)
         {
-            var emp = _EmployeeRepo.Get(id);
+            var emp = _unitOfWork.EmployeeRepository.Get(id);
             return View(emp);
         }
         [HttpPost, ActionName("Delete")]
         public IActionResult DeleteConfirm(int id)
         {
-            var emp = _EmployeeRepo.Get(id);
-            _EmployeeRepo.Delete(emp);
+            var emp = _unitOfWork.EmployeeRepository.Get(id);
+            _unitOfWork.EmployeeRepository.Delete(emp);
             return RedirectToAction("Index");
         }
 

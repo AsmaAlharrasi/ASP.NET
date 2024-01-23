@@ -1,0 +1,39 @@
+﻿@model LogInVM
+@{
+	ViewData["Title"] = "Register";
+	Layout = "~/Views/Shared/_AuthLayout.cshtml";
+}
+
+<h1>Log In</h1>
+
+<div class="main wrapper">
+	<h1>Creative Log In Form</h1>
+	<div class="main-agileinfo">
+		<div class="agileits-top">
+			<form asp-action="LogIn">
+				<div asp-validation-summary="All"></div>
+				
+				<input class="text email" asp-for="Email" placeholder="Email" required="">
+
+				<input class="text" asp-for="Password" placeholder="Password" required="">
+				
+				@* <input class="text" asp-for="RememberMe" placeholder="RememberMe" required="">
+				<span asp-validation-for="RememberMe"></span> *@
+
+				@* <input type="radio" value="Male"  asp-for="" /> Male
+				<input type="radio" value="Female" /> *@
+
+				<div class="wthree-text">
+					<label class="anim">
+						<input asp-for="RememberMe" class="checkbox">
+						<span>RememberMe</span>
+					</label>
+					<div class="clear"> </div>
+				</div>
+				<input type="submit" value="SIGNUP">
+			</form>
+			<p>Don't have an Account? <a href="#"> Login Now!</a></p>
+		</div>
+	</div>
+
+</div>

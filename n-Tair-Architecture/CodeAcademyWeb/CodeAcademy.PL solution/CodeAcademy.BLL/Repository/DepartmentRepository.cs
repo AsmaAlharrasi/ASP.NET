@@ -11,10 +11,10 @@ namespace CodeAcademy.BLL.Repository
 {
     public class DepartmentRepository : GenaricRepository<Department> , IDepartmentRepository
     {
-        private readonly ApplicationDbContext _context;
+        
         public DepartmentRepository(ApplicationDbContext context) : base(context)
         {
-           _context = context;
+           
         }
     }
 }

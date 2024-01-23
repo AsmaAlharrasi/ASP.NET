@@ -18,12 +18,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\Code Academy\ASP.Net\coding\n-Tair-Architecture\CodeAcademyWeb\CodeAcademy.PL solution\CodeAcademy.PL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Account/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dJbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/Details.cshtml]
@@ -32,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/PartialView/CreateUpdateView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxQYXJ0aWFsVmlld1xDcmVhdGVVcGRhdGVWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Department/Update.cshtml]
@@ -54,6 +62,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Employee/PartialView/CreatUpdatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdcQ3JlYXRVcGRhdGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Employee/PartialView/DetailsDeletePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcUGFydGlhbFZpZXdcRGV0YWlsc0RlbGV0ZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Employee/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -68,6 +84,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Shared/_ButtonsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25zUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/HP/Desktop/Code Academy/ASP.Net/coding/n-Tair-Architecture/CodeAcademyWeb/CodeAcademy.PL solution/CodeAcademy.PL/Views/Shared/_ValidationScriptsPartial.cshtml]

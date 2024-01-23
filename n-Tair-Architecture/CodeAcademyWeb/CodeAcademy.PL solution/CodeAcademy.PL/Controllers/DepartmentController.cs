@@ -1,27 +1,37 @@
-﻿using CodeAcademy.BLL.Interface;
+﻿using AutoMapper;
+using CodeAcademy.BLL.Interface;
 using CodeAcademy.BLL.Repository;
 using CodeAcademy.DAL.Models;
+using CodeAcademy.PL.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using System.Runtime.Intrinsics.Arm;
 
 namespace CodeAcademy.PL.Controllers
 {
     public class DepartmentController : Controller
     {
-        private readonly IDepartmentRepository _departmentRepo;
+        //    private readonly IDepartmentRepository _departmentRepo;
 
-        //IDepartmentReposatory depo = new DepartmentRepository();
-        public DepartmentController(IDepartmentRepository departmentrepo)
+        //    public DepartmentController(IDepartmentRepository departmentrepo)
+        //    {
+
+        //        _departmentRepo = departmentrepo;
+        //    }
+
+        private readonly IUnitOfWork _unitOfWork;
+        private readonly IMapper _mapper;
+        public DepartmentController(IUnitOfWork unitOfWork , IMapper mapper)
         {
-
-            _departmentRepo = departmentrepo;
+            _unitOfWork = unitOfWork;
+            _mapper = mapper;
         }
         public IActionResult Index()
         {
 
-            // ViewBag || ViewdData
+            
             //ViewBag.massage = "Hello from Action";
             //ViewData["msg"] = "Hello from ViewData";
-            var deps = _departmentRepo.GetAll();
+            var deps = _unitOfWork.DepartmentRepository.GetAll();
             return View(deps);
         }
         public IActionResult Details(int? id)
@@ -30,7 +40,7 @@ namespace CodeAcademy.PL.Controllers
             {
                 return BadRequest();
             }
-            var dep = _departmentRepo.Get(id.Value);
+            var dep = _unitOfWork.DepartmentRepository.Get(id.Value);
             return View(dep);
 
         }
@@ -39,12 +49,13 @@ namespace CodeAcademy.PL.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(Department dep)
+        public IActionResult Create(DepartmentVM dep)
         {
 
             if (ModelState.IsValid)
             {
-                _departmentRepo.Create(dep);
+                var MappedDep = _mapper.Map<DepartmentVM, Department>(dep);
+                _unitOfWork.DepartmentRepository.Create(MappedDep);
                 TempData["success"] = "Added Successfully";
                 return RedirectToAction("Index");
             }
@@ -54,16 +65,17 @@ namespace CodeAcademy.PL.Controllers
 
         public IActionResult Update(int id)
         {
-            var dep = _departmentRepo.Get(id);
+            var dep = _unitOfWork.DepartmentRepository.Get(id);
             return View(dep);
         }
 
         [HttpPost]
-        public IActionResult Update(Department dep)
+        public IActionResult Update(DepartmentVM dep)
         {
             if (ModelState.IsValid)
             {
-                _departmentRepo.Update(dep);
+                var MappedDep = _mapper.Map<DepartmentVM, Department>(dep);
+                _unitOfWork.DepartmentRepository.Update(MappedDep);
                 return RedirectToAction("Index");
             }
             return View(dep);
@@ -71,8 +83,8 @@ namespace CodeAcademy.PL.Controllers
 
         public ActionResult Delete(int id)
         {
-            var dep = _departmentRepo.Get(id);
-            _departmentRepo.Delete(dep);
+            var dep = _unitOfWork.DepartmentRepository.Get(id);
+            _unitOfWork.DepartmentRepository.Delete(dep);
             return RedirectToAction("Index");
         }
     }

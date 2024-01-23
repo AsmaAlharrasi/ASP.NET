@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeAcademy.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f0a0b2432e4d60048a389b47aa1dc9c35e72f11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+217b6b6c7ea5c87e681a88deaca1119e400083a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeAcademy.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeAcademy.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

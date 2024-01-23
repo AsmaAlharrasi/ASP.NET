@@ -11,15 +11,18 @@ namespace CodeAcademy.BLL.Repository
 {
     public class EmployeeRepository : GenaricRepository<Employee> , IEmployeeRepository
     {
-        private readonly ApplicationDbContext _context;
-        public EmployeeRepository(ApplicationDbContext context) :base(context) 
-        {
-            _context = context;   
-        }
-        public IEnumerable<Employee> Search(string name)
-        {
-            var emp = _context.Employees.Where(w => w.Name.ToLower().Contains(name.ToLower())).ToList();
-            return emp;
-        }
+
+            private readonly ApplicationDbContext _context;
+            public EmployeeRepository(ApplicationDbContext context) : base(context)
+            {
+                _context = context;
+            }
+
+            public IEnumerable<Employee> Search(string name)
+            {
+                var emp = _context.Employees.Where(w => w.Name.ToLower().Contains(name)).ToList();
+                return emp;
+            }
+        
     }
 }
